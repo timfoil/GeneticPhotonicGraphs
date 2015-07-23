@@ -7,7 +7,7 @@ sourceCompatibility = 1.7
 version = '1.0'
 jar {
     manifest {
-        attributes 'Implementation-Title': 'Gradle Quickstart',
+        attributes 'Implementation-Title': 'GeneticPhotonicGraphs',
                    'Implementation-Version': version
     }
 }
